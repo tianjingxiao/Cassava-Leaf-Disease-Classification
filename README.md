@@ -1,4 +1,4 @@
-# Cassava-Leaf-Disease-Classification
+# Cassava Leaf Disease Classification
 
 This my project when I had course at UCSD 
 
